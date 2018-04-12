@@ -28,7 +28,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Press Start 2P', display;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -42,7 +42,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Press Start 2P', display;
   font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
@@ -1375,6 +1375,9 @@ body {
 }
 .cid-qP2Wej9XjM {
   background-image: url("../../../assets/images/tmbl-heavytank-shota-tl07-squashed-2000x1125.jpg");
+}
+.cid-qP2Wej9XjM H1 {
+  color: #ffffff;
 }
 .cid-qP2WK7TB1G {
   padding-top: 90px;
